@@ -18,10 +18,27 @@ To identify the key drivers of churn and create a dashboard to help stakeholders
 - GitHub for portfolio hosting
 
 ## 📌 Key Insights
-- Most churn occurs in the first 0–12 months
-- Fiber Optic customers show the highest churn
-- Monthly contracts contribute more to churn than yearly ones
+✅ Overall churn %
 
+✅ Churn by gender
+
+✅ Churn by senior citizen
+
+✅ Churn by contract type
+
+✅ Churn by tenure group
+
+✅ Churn by payment method
+
+✅ Churn by monthly charges
+
+✅ Churn by total charges
+
+✅ Churn by partner & dependents
+
+✅ Churn by service combinations
+
+To look insights go to https://github.com/Anant077/Telco-Customer-Churn-Analysis/blob/main/SQL/gitkeep
 ## 🖥️ Dashboard Preview
 
 ![Dashboard Preview](visuals/dashboard.png)
